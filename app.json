@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RN CabWind User App",
-    "slug": "rn-CabBookingUserApp",
+    "name": "ebyuser",
+    "slug": "ebyuser",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -14,9 +14,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "bundleIdentifier": "com.render.cabbookinguserapp",
       "buildNumber": "1.0.0",
@@ -40,8 +38,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "54753885-d0a3-46b8-92d1-2e420ddf774d"
+        "projectId": "798db9bd-9eec-4ff0-8dea-709afaef9170"
       }
-    }
+    },
+    "owner": "deloreanstu"
   }
 }
